@@ -1,2 +1,2 @@
 # SecNet
-The code of our paper will be released here!!!
+We will release the code after the paper is accepted. 
